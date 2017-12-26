@@ -1,5 +1,7 @@
 ## SQLiteDemo
 SQLite is a SQL database that stores data in a text file on a device. 
+
+# Screenshots  
   
 Some useful links:  
 http://abhiandroid.com/database/sqlite  
